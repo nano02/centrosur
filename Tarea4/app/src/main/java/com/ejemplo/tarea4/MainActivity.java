@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity{
         setContentView(R.layout.activity_main);
     }
 
-    //Probando git 12:40
+    //Probando git 12:50
     public void broadcastIntent(View view){
         Intent intent = new Intent();
         intent.setAction("com.ejemplo.tarea4");
